@@ -1,0 +1,22 @@
+[ERROR] Invalid arguments.
+[INFO] Compressing text.txt -> text.zip
+[INFO] Compression completed successfully.
+[INFO] Operation completed.
+[INFO] Decompressing text.zip -> text2.txt
+[INFO] Decompression completed successfully.
+[INFO] Operation completed.
+[ERROR] Cannot open files for compression.
+[ERROR] Operation failed.
+[INFO] Compressing large_file.csv -> zrch.zip
+[INFO] Compression completed successfully.
+[INFO] Operation completed.
+[INFO] Compressing large_file.csv -> zrch_2.zip
+[INFO] Received signal 2
+[INFO] Compression interrupted by signal.
+[ERROR] Operation failed.
+[ERROR] Cannot open files for compression.
+[ERROR] Operation failed.
+[INFO] Compressing CatFacesDetection.zip -> cats
+[INFO] Received signal 2
+[INFO] Compression interrupted by signal.
+[ERROR] Operation failed.

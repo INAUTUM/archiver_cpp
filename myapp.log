@@ -20,3 +20,39 @@
 [INFO] Received signal 2
 [INFO] Compression interrupted by signal.
 [ERROR] Operation failed.
+[ERROR] Invalid arguments.
+[ERROR] Invalid arguments.
+[INFO] Compressing CatFacesDetection.zip -> cats
+[ERROR] Cannot open files for compression.
+[ERROR] Operation failed.
+[ERROR] Invalid arguments.
+[ERROR] Cannot open files for decompression.
+[ERROR] Operation failed.
+[ERROR] Invalid arguments.
+[INFO] Decompressing CatFacesDetection.zip -> cat
+[ERROR] Failed to create file: cat/CatFacesDetection_file0
+[ERROR] Operation failed.
+[ERROR] Invalid arguments.
+[INFO] Decompressing CatFacesDetection.zip -> cat
+[INFO] Decompression completed successfully.
+[INFO] Operation completed.
+[ERROR] Invalid arguments.
+[INFO] Decompressing CatFacesDetection.zip -> cat
+[INFO] Decompression completed successfully.
+[INFO] Operation completed.
+[ERROR] Invalid arguments.
+[ERROR] Invalid arguments.
+[INFO] Compressing large_file.csv -> zrch_2.tar
+[INFO] Compression completed successfully.
+[INFO] Operation completed.
+[INFO] Compressing large_file.csv -> zrch_2.zip
+[INFO] Compression completed successfully.
+[INFO] Operation completed.
+[INFO] Decompressing text.csv -> test.zip
+[ERROR] Unrecognized archive format
+[ERROR] Operation failed.
+[INFO] Compressing text.csv -> test.zip
+[INFO] Operation completed.
+[INFO] Decompressing test.zip -> test.csv
+[INFO] Decompressing file to: test.csv
+[INFO] Operation completed.
